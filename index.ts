@@ -19,3 +19,14 @@
     // Objects
 
 // Types are used by the TypeScript compiler to analyse our code for errors and allows other developers to understand what values are defined in our codebase
+
+// Examples 
+const today = new Date();
+today.getMonth();
+
+const person = {
+  age: 20
+};
+
+class Color {};
+const red = new Color();
